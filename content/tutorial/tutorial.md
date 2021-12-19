@@ -342,7 +342,7 @@ After installing React DevTools, you can right-click on any element on the page,
 
 1. Log in or register and confirm your email (required to prevent spam).
 2. Click the "Fork" button.
-3. Click "Change View" and then choose "Debug mode".
+3. Click "Change View" and then choose "Debug mode" or change "pen" in the URL to "debug".
 4. In the new tab that opens, the devtools should now have a React tab.
 
 ## Completing the Game {#completing-the-game}
